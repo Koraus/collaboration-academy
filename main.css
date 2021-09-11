@@ -1,0 +1,57 @@
+.footer {
+    font-family: Poppins, sans-serif;
+    margin: 64px 45px 64px 45px;
+}
+
+.footer .links {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding-bottom: 45px;
+
+}
+
+.footer .links p,
+.footer .tags p {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #151515;
+}
+
+.footer .links a {
+    display: block;
+    text-decoration: none;
+    color: #6A983C;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    margin: 0 0 16px 0;
+
+}
+
+.footer .tags {
+    width: 1155px;
+    margin-bottom: 48px;
+
+}
+
+.footer .tags a {
+    display: inline-block;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    color: #151515;
+    background: #F5F5F5;
+    border-radius: 12px;
+    padding: 4px 10px;
+    margin: 0 16px 16px 0;
+
+}
+
+.footer .copyright {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+
+}
